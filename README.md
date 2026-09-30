@@ -218,9 +218,23 @@ The implemented system successfully solved the tested water pouring cases, perfo
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Durairaj S**
+**Ganesh S**
+**Gokulkrishnan**
+**Gummadi yeswanth**
+**Hema P**
+
+**The solution is represented as a sequence of water states and pouring operations.
+
+---
+
+## 🚰 Water Tank Calculation
+
+The Water Tank module calculates the time required to reach a target water level based on the inlet and outlet flow rates.
+
+### Example
 
 ### Project Type
 
